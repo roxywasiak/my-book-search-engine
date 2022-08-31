@@ -1,2 +1,3 @@
-# my-book-search-engine
+# Title: my-book-search-engine
+
 A MERN book search engine application
