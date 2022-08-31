@@ -9,9 +9,25 @@ I have refactored the code to be a GraphQL API built with Apollo Server. The app
 
 # Tecnologies Used 🔍
 
+- MongoDB Database
+- Express.js
+- React.js
+- Node.js
+- Heroku
+
 # Heroku Link ⚡️
 
 The application is deployed on Heroku please find it [HERE](https://agile-lake-27689.herokuapp.com/)
+
+# Run The App 🚀
+
+```
+$ git clone git@github.com:roxywasiak/my-book-search-engine.git
+$ cd my-book-search-engine
+$ npm i
+$ npm start:server
+$ npm start:client
+```
 
 # Screenshot 📸
 
